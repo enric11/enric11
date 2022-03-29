@@ -4,12 +4,13 @@ This is Enric from Gósol / Barcelona (Catalunya)
 
 <a href="https://www.linkedin.com/in/enric-castella/">
   <img align="left" alt="Enric Castella's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Enric Castella
 </a><br>
 
 <a href="https://www.linkedin.com/in/enric-castella/">
   <img align="left" alt="Enric Castella's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/128/2034/2034607.png" />
   ecastella.com
-</a><br>
+</a><br><br>
 
 - 🔭 I’m currently working on Hospital Clínic de Barcelona
 - 🌱 I’m always learning SAP
