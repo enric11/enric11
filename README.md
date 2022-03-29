@@ -5,7 +5,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 
 <a href="https://www.linkedin.com/in/enric-castella/">
   <img align="left" alt="Enric Casteñña's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a><br>
 
 - 🔭 I’m currently working on Hospital Clínic de Barcelona
 - 🌱 I’m always learning SAP
