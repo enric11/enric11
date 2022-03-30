@@ -98,4 +98,4 @@ Go                       1 repo              ██░░░░░░░░░�
  Last Updated on 30/03/2022 19:37:07 UTC
 <!--END_SECTION:waka-->
 
-![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
