@@ -20,7 +20,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,16 +63,23 @@ Sunday       18 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      2 hrs               ████████████████░░░░░░░░░   64.41% 
+JavaScript               35 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.96% 
+Properties               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 6 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gest_convocatories       2 hrs 8 mins        █████████████████░░░░░░░░   68.7% 
+projects                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   22.71% 
+zh_dpo_empl              15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+convocatories            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 6 mins        █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +100,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/04/2022 18:51:26 UTC
+ Last Updated on 22/04/2022 18:51:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
