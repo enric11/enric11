@@ -20,7 +20,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,7 +100,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 18:51:11 UTC
+ Last Updated on 23/04/2022 18:49:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
