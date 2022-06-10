@@ -26,13 +26,13 @@ This is Enric from Gósol / Barcelona (Catalunya)
 
 **🐱 My GitHub Data** 
 
-> 🏆 26 Contributions in the Year 2022
+> 🏆 31 Contributions in the Year 2022
  > 
 > 📦 105.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 11 Private Repositories  
  > 
@@ -65,10 +65,10 @@ Sunday       17 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     21 mins             █████████████░░░░░░░░░░░░   54.25% 
-YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   31.3% 
-XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   3.52%
+JSON                     22 mins             █████████████░░░░░░░░░░░░   54.57% 
+YAML                     12 mins             ███████░░░░░░░░░░░░░░░░░░   31.07% 
+XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49%
 
 🔥 Editors: 
 VS Code                  40 mins             █████████████████████████   100.0%
@@ -98,7 +98,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 18:49:03 UTC
+ Last Updated on 10/06/2022 18:51:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
