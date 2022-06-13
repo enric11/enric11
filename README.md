@@ -22,7 +22,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -95,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 18:47:00 UTC
+ Last Updated on 13/06/2022 18:51:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
