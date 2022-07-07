@@ -65,20 +65,16 @@ Sunday       17 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     20 mins             ███████████████░░░░░░░░░░   60.46% 
-XML                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.14% 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.9%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-registre_horari          33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/07/2022 18:53:08 UTC
+ Last Updated on 07/07/2022 18:52:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
