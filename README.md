@@ -20,7 +20,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,21 +65,16 @@ Sunday       17 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-XML                      33 mins             █████████░░░░░░░░░░░░░░░░   38.68% 
-JavaScript               25 mins             ███████░░░░░░░░░░░░░░░░░░   29.84% 
-YAML                     25 mins             ███████░░░░░░░░░░░░░░░░░░   29.61% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-convocatories            1 hr 17 mins        ██████████████████████░░░   90.16% 
-gest_convocatories       8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 25 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -100,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/08/2022 18:49:23 UTC
+ Last Updated on 17/08/2022 18:54:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
