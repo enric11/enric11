@@ -20,7 +20,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -28,7 +28,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 
 > 🏆 67 Contributions in the Year 2022
  > 
-> 📦 106.5 kB Used in GitHub's Storage 
+> 📦 106.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,7 +98,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 18:51:40 UTC
+ Last Updated on 31/08/2022 18:52:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
