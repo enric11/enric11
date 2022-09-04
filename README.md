@@ -20,7 +20,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -36,54 +36,6 @@ This is Enric from Gósol / Barcelona (Catalunya)
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45% 
-🌆 Daytime    45 commits     ████████████░░░░░░░░░░░░░   48.39% 
-🌃 Evening    34 commits     █████████░░░░░░░░░░░░░░░░   36.56% 
-🌙 Night      8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.6%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-Tuesday      17 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
-Wednesday    19 commits     █████░░░░░░░░░░░░░░░░░░░░   20.43% 
-Thursday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
-Saturday     25 commits     ██████░░░░░░░░░░░░░░░░░░░   26.88% 
-Sunday       19 commits     █████░░░░░░░░░░░░░░░░░░░░   20.43%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-XML                      2 hrs 28 mins       █████████████░░░░░░░░░░░░   53.07% 
-JavaScript               1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   40.15% 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.41% 
-Properties               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
-
-🔥 Editors: 
-VS Code                  4 hrs 40 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-validacio_cv             3 hrs 36 mins       ███████████████████░░░░░░   77.1% 
-convocatories            36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09% 
-enviar_spp               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.81%
-
-💻 Operating System: 
-Linux                    4 hrs 40 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -101,7 +53,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:51:48 UTC
+ Last Updated on 04/09/2022 18:51:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
