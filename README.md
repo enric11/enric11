@@ -65,18 +65,16 @@ Sunday       19 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               24 mins             ████████████░░░░░░░░░░░░░   48.6% 
-XML                      24 mins             ███████████░░░░░░░░░░░░░░   47.49% 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.91%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gest_convocatories       51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -97,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 18:57:30 UTC
+ Last Updated on 15/09/2022 18:55:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
