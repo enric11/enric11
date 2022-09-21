@@ -28,7 +28,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 
 > 🏆 67 Contributions in the Year 2022
  > 
-> 📦 106.5 kB Used in GitHub's Storage 
+> 📦 106.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:56:34 UTC
+ Last Updated on 21/09/2022 18:58:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
