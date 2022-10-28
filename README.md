@@ -20,9 +20,9 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,20 +65,20 @@ Sunday       9 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               2 hrs 9 mins        ████████████████░░░░░░░░░   66.16% 
-XML                      45 mins             █████░░░░░░░░░░░░░░░░░░░░   23.21% 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+JavaScript               2 hrs 3 mins        ██████████████████░░░░░░░   74.56% 
+XML                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63% 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 45 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-zh_l_ticket_rest         3 hrs 15 mins       █████████████████████████   100.0%
+zh_l_ticket_rest         2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    3 hrs 15 mins       █████████████████████████   100.0%
+Linux                    2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/10/2022 18:53:49 UTC
+ Last Updated on 28/10/2022 18:53:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
