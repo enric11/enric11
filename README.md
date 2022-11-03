@@ -20,7 +20,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=enric11&count_private=true&show_icons=true">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -28,7 +28,7 @@ This is Enric from Gósol / Barcelona (Catalunya)
 
 > 🏆 67 Contributions in the Year 2022
  > 
-> 📦 106.6 kB Used in GitHub's Storage 
+> 📦 106.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,20 +65,20 @@ Sunday       9 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               1 hr 39 mins        ████████████████████░░░░░   81.64% 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.28% 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+YAML                     7 mins              █████████████░░░░░░░░░░░░   55.08% 
+JavaScript               5 mins              █████████░░░░░░░░░░░░░░░░   38.81% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.0%
+VS Code                  13 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-zh_l_ticket_rest         2 hrs 1 min         █████████████████████████   100.0%
+el_meu_cv                12 mins             ███████████████████████░░   94.22% 
+zh_l_ticket_rest         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
 
 💻 Operating System: 
-Linux                    2 hrs 1 min         █████████████████████████   100.0%
+Linux                    13 mins             █████████████████████████   100.0%
 
 ```
 
@@ -99,7 +99,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2022 18:55:42 UTC
+ Last Updated on 03/11/2022 18:55:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
