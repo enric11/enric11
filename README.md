@@ -65,20 +65,16 @@ Sunday       9 commits      ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-YAML                     7 mins              █████████████░░░░░░░░░░░░   55.08% 
-JavaScript               5 mins              █████████░░░░░░░░░░░░░░░░   38.81% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-el_meu_cv                12 mins             ███████████████████████░░   94.22% 
-zh_l_ticket_rest         0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -99,7 +95,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/enric11/enric11/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 19:02:56 UTC
+ Last Updated on 09/11/2022 18:51:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=enric11.enric11) -->
